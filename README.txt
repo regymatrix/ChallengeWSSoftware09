@@ -95,8 +95,20 @@ Teste [02]
   Saída: <h1> Desafio </h1>
 
 
-  Entrega
-
-  .NET
-  Sua solução deve conter um projeto com a classe ExtratoraDeTagsHTML e seus métodos.
+  Entrega - Instruções
+  
+  1 -   Fork =>  Faça um Fork do projeto par sua conta no GITHUB.
+  2 - Clone o Projeto para seu computador por meio do Fork Criado
+  3 - Crie uma pasta com o seu nome + Desafio 01. Exemplo: ReginaldoChallenge01
+  4 - .NET Crie a solução em .NET (C#). Deve conter um projeto com a classe ExtratoraDeTagsHTML e seus métodos.
   Também, deverá conter um projeto de teste unitário com cenários para todos os métodos solicitados.
+  5. Faça checking / Pull Request
+  
+  Veja o vídeo para auxiliar: https://youtu.be/b32O0dJkUHE
+  
+  
+  Um abraço.
+  REGINALDO SANTANA
+  
+
+  
