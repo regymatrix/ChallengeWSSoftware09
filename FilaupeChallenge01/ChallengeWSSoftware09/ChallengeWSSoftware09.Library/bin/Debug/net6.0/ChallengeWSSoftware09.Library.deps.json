@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ChallengeWSSoftware09.Library/1.0.0": {
+        "runtime": {
+          "ChallengeWSSoftware09.Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ChallengeWSSoftware09.Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
