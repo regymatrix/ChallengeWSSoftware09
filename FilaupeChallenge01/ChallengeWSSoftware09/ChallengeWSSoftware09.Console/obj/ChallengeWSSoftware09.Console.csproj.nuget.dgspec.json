@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\android\\Documents\\GitHub\\ChallengeWSSoftware09\\FilaupeChallenge01\\ChallengeWSSoftware09\\ChallengeWSSoftware09.Console\\ChallengeWSSoftware09.Console.csproj": {}
+    "C:\\Users\\MulinhaGPlays\\Documents\\GitHub\\ChallengeWSSoftware09\\FilaupeChallenge01\\ChallengeWSSoftware09\\ChallengeWSSoftware09.Console\\ChallengeWSSoftware09.Console.csproj": {}
   },
   "projects": {
-    "C:\\Users\\android\\Documents\\GitHub\\ChallengeWSSoftware09\\FilaupeChallenge01\\ChallengeWSSoftware09\\ChallengeWSSoftware09.Console\\ChallengeWSSoftware09.Console.csproj": {
+    "C:\\Users\\MulinhaGPlays\\Documents\\GitHub\\ChallengeWSSoftware09\\FilaupeChallenge01\\ChallengeWSSoftware09\\ChallengeWSSoftware09.Console\\ChallengeWSSoftware09.Console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\android\\Documents\\GitHub\\ChallengeWSSoftware09\\FilaupeChallenge01\\ChallengeWSSoftware09\\ChallengeWSSoftware09.Console\\ChallengeWSSoftware09.Console.csproj",
+        "projectUniqueName": "C:\\Users\\MulinhaGPlays\\Documents\\GitHub\\ChallengeWSSoftware09\\FilaupeChallenge01\\ChallengeWSSoftware09\\ChallengeWSSoftware09.Console\\ChallengeWSSoftware09.Console.csproj",
         "projectName": "ChallengeWSSoftware09.Console",
-        "projectPath": "C:\\Users\\android\\Documents\\GitHub\\ChallengeWSSoftware09\\FilaupeChallenge01\\ChallengeWSSoftware09\\ChallengeWSSoftware09.Console\\ChallengeWSSoftware09.Console.csproj",
-        "packagesPath": "C:\\Users\\android\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\android\\Documents\\GitHub\\ChallengeWSSoftware09\\FilaupeChallenge01\\ChallengeWSSoftware09\\ChallengeWSSoftware09.Console\\obj\\",
+        "projectPath": "C:\\Users\\MulinhaGPlays\\Documents\\GitHub\\ChallengeWSSoftware09\\FilaupeChallenge01\\ChallengeWSSoftware09\\ChallengeWSSoftware09.Console\\ChallengeWSSoftware09.Console.csproj",
+        "packagesPath": "C:\\Users\\MulinhaGPlays\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MulinhaGPlays\\Documents\\GitHub\\ChallengeWSSoftware09\\FilaupeChallenge01\\ChallengeWSSoftware09\\ChallengeWSSoftware09.Console\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "D:\\SDKs\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\android\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\MulinhaGPlays\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -34,8 +33,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\android\\Documents\\GitHub\\ChallengeWSSoftware09\\FilaupeChallenge01\\ChallengeWSSoftware09\\ChallengeWSSoftware09.Library\\ChallengeWSSoftware09.Library.csproj": {
-                "projectPath": "C:\\Users\\android\\Documents\\GitHub\\ChallengeWSSoftware09\\FilaupeChallenge01\\ChallengeWSSoftware09\\ChallengeWSSoftware09.Library\\ChallengeWSSoftware09.Library.csproj"
+              "C:\\Users\\MulinhaGPlays\\Documents\\GitHub\\ChallengeWSSoftware09\\FilaupeChallenge01\\ChallengeWSSoftware09\\ChallengeWSSoftware09.Library\\ChallengeWSSoftware09.Library.csproj": {
+                "projectPath": "C:\\Users\\MulinhaGPlays\\Documents\\GitHub\\ChallengeWSSoftware09\\FilaupeChallenge01\\ChallengeWSSoftware09\\ChallengeWSSoftware09.Library\\ChallengeWSSoftware09.Library.csproj"
               }
             }
           }
@@ -60,30 +59,47 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.11, 6.0.11]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.11, 6.0.11]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.11, 6.0.11]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.11, 6.0.11]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\android\\Documents\\GitHub\\ChallengeWSSoftware09\\FilaupeChallenge01\\ChallengeWSSoftware09\\ChallengeWSSoftware09.Library\\ChallengeWSSoftware09.Library.csproj": {
+    "C:\\Users\\MulinhaGPlays\\Documents\\GitHub\\ChallengeWSSoftware09\\FilaupeChallenge01\\ChallengeWSSoftware09\\ChallengeWSSoftware09.Library\\ChallengeWSSoftware09.Library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\android\\Documents\\GitHub\\ChallengeWSSoftware09\\FilaupeChallenge01\\ChallengeWSSoftware09\\ChallengeWSSoftware09.Library\\ChallengeWSSoftware09.Library.csproj",
+        "projectUniqueName": "C:\\Users\\MulinhaGPlays\\Documents\\GitHub\\ChallengeWSSoftware09\\FilaupeChallenge01\\ChallengeWSSoftware09\\ChallengeWSSoftware09.Library\\ChallengeWSSoftware09.Library.csproj",
         "projectName": "ChallengeWSSoftware09.Library",
-        "projectPath": "C:\\Users\\android\\Documents\\GitHub\\ChallengeWSSoftware09\\FilaupeChallenge01\\ChallengeWSSoftware09\\ChallengeWSSoftware09.Library\\ChallengeWSSoftware09.Library.csproj",
-        "packagesPath": "C:\\Users\\android\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\android\\Documents\\GitHub\\ChallengeWSSoftware09\\FilaupeChallenge01\\ChallengeWSSoftware09\\ChallengeWSSoftware09.Library\\obj\\",
+        "projectPath": "C:\\Users\\MulinhaGPlays\\Documents\\GitHub\\ChallengeWSSoftware09\\FilaupeChallenge01\\ChallengeWSSoftware09\\ChallengeWSSoftware09.Library\\ChallengeWSSoftware09.Library.csproj",
+        "packagesPath": "C:\\Users\\MulinhaGPlays\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MulinhaGPlays\\Documents\\GitHub\\ChallengeWSSoftware09\\FilaupeChallenge01\\ChallengeWSSoftware09\\ChallengeWSSoftware09.Library\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "D:\\SDKs\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\android\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\MulinhaGPlays\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -121,12 +137,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.11, 6.0.11]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.11, 6.0.11]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.11, 6.0.11]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "5nMuzgZPcFOxI1tcpYuRA25tjYJCFFnuuxRFs2gh9gKuOpP2twK72aoHoQwEU+eGvDX7y7jZoXtC7ziJoNWNLw==",
+  "dgSpecHash": "51Cs5JTPC1hG2VvG17ti6nYogSeaTHX0QuywyhU+Q+mAHR2YNJoUoY8ZYlqPHqpsCCwug+z7giR36IAw09xz1A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\android\\Documents\\GitHub\\ChallengeWSSoftware09\\FilaupeChallenge01\\ChallengeWSSoftware09\\ChallengeWSSoftware09.Console\\ChallengeWSSoftware09.Console.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\MulinhaGPlays\\Documents\\GitHub\\ChallengeWSSoftware09\\FilaupeChallenge01\\ChallengeWSSoftware09\\ChallengeWSSoftware09.Console\\ChallengeWSSoftware09.Console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MulinhaGPlays\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.11\\microsoft.netcore.app.host.win-x64.6.0.11.nupkg.sha512",
+    "C:\\Users\\MulinhaGPlays\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.11\\microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\MulinhaGPlays\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.11\\microsoft.windowsdesktop.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\MulinhaGPlays\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.11\\microsoft.netcore.app.ref.6.0.11.nupkg.sha512"
+  ],
   "logs": []
 }

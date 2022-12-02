@@ -22,3 +22,15 @@ C:\Users\android\Documents\GitHub\ChallengeWSSoftware09\FilaupeChallenge01\Chall
 C:\Users\android\Documents\GitHub\ChallengeWSSoftware09\FilaupeChallenge01\ChallengeWSSoftware09\ChallengeWSSoftware09.Library\obj\Debug\net6.0\refint\ChallengeWSSoftware09.Library.dll
 C:\Users\android\Documents\GitHub\ChallengeWSSoftware09\FilaupeChallenge01\ChallengeWSSoftware09\ChallengeWSSoftware09.Library\obj\Debug\net6.0\ChallengeWSSoftware09.Library.pdb
 C:\Users\android\Documents\GitHub\ChallengeWSSoftware09\FilaupeChallenge01\ChallengeWSSoftware09\ChallengeWSSoftware09.Library\obj\Debug\net6.0\ref\ChallengeWSSoftware09.Library.dll
+C:\Users\MulinhaGPlays\Documents\GitHub\ChallengeWSSoftware09\FilaupeChallenge01\ChallengeWSSoftware09\ChallengeWSSoftware09.Library\bin\Debug\net6.0\ChallengeWSSoftware09.Library.deps.json
+C:\Users\MulinhaGPlays\Documents\GitHub\ChallengeWSSoftware09\FilaupeChallenge01\ChallengeWSSoftware09\ChallengeWSSoftware09.Library\bin\Debug\net6.0\ChallengeWSSoftware09.Library.dll
+C:\Users\MulinhaGPlays\Documents\GitHub\ChallengeWSSoftware09\FilaupeChallenge01\ChallengeWSSoftware09\ChallengeWSSoftware09.Library\bin\Debug\net6.0\ChallengeWSSoftware09.Library.pdb
+C:\Users\MulinhaGPlays\Documents\GitHub\ChallengeWSSoftware09\FilaupeChallenge01\ChallengeWSSoftware09\ChallengeWSSoftware09.Library\obj\Debug\net6.0\ChallengeWSSoftware09.Library.csproj.AssemblyReference.cache
+C:\Users\MulinhaGPlays\Documents\GitHub\ChallengeWSSoftware09\FilaupeChallenge01\ChallengeWSSoftware09\ChallengeWSSoftware09.Library\obj\Debug\net6.0\ChallengeWSSoftware09.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MulinhaGPlays\Documents\GitHub\ChallengeWSSoftware09\FilaupeChallenge01\ChallengeWSSoftware09\ChallengeWSSoftware09.Library\obj\Debug\net6.0\ChallengeWSSoftware09.Library.AssemblyInfoInputs.cache
+C:\Users\MulinhaGPlays\Documents\GitHub\ChallengeWSSoftware09\FilaupeChallenge01\ChallengeWSSoftware09\ChallengeWSSoftware09.Library\obj\Debug\net6.0\ChallengeWSSoftware09.Library.AssemblyInfo.cs
+C:\Users\MulinhaGPlays\Documents\GitHub\ChallengeWSSoftware09\FilaupeChallenge01\ChallengeWSSoftware09\ChallengeWSSoftware09.Library\obj\Debug\net6.0\ChallengeWSSoftware09.Library.csproj.CoreCompileInputs.cache
+C:\Users\MulinhaGPlays\Documents\GitHub\ChallengeWSSoftware09\FilaupeChallenge01\ChallengeWSSoftware09\ChallengeWSSoftware09.Library\obj\Debug\net6.0\ChallengeWSSoftware09.Library.dll
+C:\Users\MulinhaGPlays\Documents\GitHub\ChallengeWSSoftware09\FilaupeChallenge01\ChallengeWSSoftware09\ChallengeWSSoftware09.Library\obj\Debug\net6.0\refint\ChallengeWSSoftware09.Library.dll
+C:\Users\MulinhaGPlays\Documents\GitHub\ChallengeWSSoftware09\FilaupeChallenge01\ChallengeWSSoftware09\ChallengeWSSoftware09.Library\obj\Debug\net6.0\ChallengeWSSoftware09.Library.pdb
+C:\Users\MulinhaGPlays\Documents\GitHub\ChallengeWSSoftware09\FilaupeChallenge01\ChallengeWSSoftware09\ChallengeWSSoftware09.Library\obj\Debug\net6.0\ref\ChallengeWSSoftware09.Library.dll
