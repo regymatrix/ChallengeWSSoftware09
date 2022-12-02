@@ -1,0 +1,31 @@
+C:\Users\mc735\Documents\GitHub\ChallengeWSSoftware09\DesafioSolucion\Mário - DesafioHTML\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\mc735\Documents\GitHub\ChallengeWSSoftware09\DesafioSolucion\Mário - DesafioHTML\bin\Debug\net6.0\appsettings.json
+C:\Users\mc735\Documents\GitHub\ChallengeWSSoftware09\DesafioSolucion\Mário - DesafioHTML\bin\Debug\net6.0\Mário - DesafioHTML.staticwebassets.runtime.json
+C:\Users\mc735\Documents\GitHub\ChallengeWSSoftware09\DesafioSolucion\Mário - DesafioHTML\bin\Debug\net6.0\Mário - DesafioHTML.exe
+C:\Users\mc735\Documents\GitHub\ChallengeWSSoftware09\DesafioSolucion\Mário - DesafioHTML\bin\Debug\net6.0\Mário - DesafioHTML.deps.json
+C:\Users\mc735\Documents\GitHub\ChallengeWSSoftware09\DesafioSolucion\Mário - DesafioHTML\bin\Debug\net6.0\Mário - DesafioHTML.runtimeconfig.json
+C:\Users\mc735\Documents\GitHub\ChallengeWSSoftware09\DesafioSolucion\Mário - DesafioHTML\bin\Debug\net6.0\Mário - DesafioHTML.dll
+C:\Users\mc735\Documents\GitHub\ChallengeWSSoftware09\DesafioSolucion\Mário - DesafioHTML\bin\Debug\net6.0\Mário - DesafioHTML.pdb
+C:\Users\mc735\Documents\GitHub\ChallengeWSSoftware09\DesafioSolucion\Mário - DesafioHTML\obj\Debug\net6.0\Mário - DesafioHTML.csproj.AssemblyReference.cache
+C:\Users\mc735\Documents\GitHub\ChallengeWSSoftware09\DesafioSolucion\Mário - DesafioHTML\obj\Debug\net6.0\Mário - DesafioHTML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mc735\Documents\GitHub\ChallengeWSSoftware09\DesafioSolucion\Mário - DesafioHTML\obj\Debug\net6.0\Mário - DesafioHTML.AssemblyInfoInputs.cache
+C:\Users\mc735\Documents\GitHub\ChallengeWSSoftware09\DesafioSolucion\Mário - DesafioHTML\obj\Debug\net6.0\Mário - DesafioHTML.AssemblyInfo.cs
+C:\Users\mc735\Documents\GitHub\ChallengeWSSoftware09\DesafioSolucion\Mário - DesafioHTML\obj\Debug\net6.0\Mário - DesafioHTML.csproj.CoreCompileInputs.cache
+C:\Users\mc735\Documents\GitHub\ChallengeWSSoftware09\DesafioSolucion\Mário - DesafioHTML\obj\Debug\net6.0\Mário - DesafioHTML.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mc735\Documents\GitHub\ChallengeWSSoftware09\DesafioSolucion\Mário - DesafioHTML\obj\Debug\net6.0\Mário - DesafioHTML.RazorAssemblyInfo.cache
+C:\Users\mc735\Documents\GitHub\ChallengeWSSoftware09\DesafioSolucion\Mário - DesafioHTML\obj\Debug\net6.0\Mário - DesafioHTML.RazorAssemblyInfo.cs
+C:\Users\mc735\Documents\GitHub\ChallengeWSSoftware09\DesafioSolucion\Mário - DesafioHTML\obj\Debug\net6.0\staticwebassets\msbuild.Mário - DesafioHTML.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mc735\Documents\GitHub\ChallengeWSSoftware09\DesafioSolucion\Mário - DesafioHTML\obj\Debug\net6.0\staticwebassets\msbuild.build.Mário - DesafioHTML.props
+C:\Users\mc735\Documents\GitHub\ChallengeWSSoftware09\DesafioSolucion\Mário - DesafioHTML\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Mário - DesafioHTML.props
+C:\Users\mc735\Documents\GitHub\ChallengeWSSoftware09\DesafioSolucion\Mário - DesafioHTML\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Mário - DesafioHTML.props
+C:\Users\mc735\Documents\GitHub\ChallengeWSSoftware09\DesafioSolucion\Mário - DesafioHTML\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\mc735\Documents\GitHub\ChallengeWSSoftware09\DesafioSolucion\Mário - DesafioHTML\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\mc735\Documents\GitHub\ChallengeWSSoftware09\DesafioSolucion\Mário - DesafioHTML\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\mc735\Documents\GitHub\ChallengeWSSoftware09\DesafioSolucion\Mário - DesafioHTML\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\mc735\Documents\GitHub\ChallengeWSSoftware09\DesafioSolucion\Mário - DesafioHTML\obj\Debug\net6.0\scopedcss\bundle\Mário - DesafioHTML.styles.css
+C:\Users\mc735\Documents\GitHub\ChallengeWSSoftware09\DesafioSolucion\Mário - DesafioHTML\obj\Debug\net6.0\scopedcss\projectbundle\Mário - DesafioHTML.bundle.scp.css
+C:\Users\mc735\Documents\GitHub\ChallengeWSSoftware09\DesafioSolucion\Mário - DesafioHTML\obj\Debug\net6.0\Mário - DesafioHTML.dll
+C:\Users\mc735\Documents\GitHub\ChallengeWSSoftware09\DesafioSolucion\Mário - DesafioHTML\obj\Debug\net6.0\refint\Mário - DesafioHTML.dll
+C:\Users\mc735\Documents\GitHub\ChallengeWSSoftware09\DesafioSolucion\Mário - DesafioHTML\obj\Debug\net6.0\Mário - DesafioHTML.pdb
+C:\Users\mc735\Documents\GitHub\ChallengeWSSoftware09\DesafioSolucion\Mário - DesafioHTML\obj\Debug\net6.0\Mário - DesafioHTML.genruntimeconfig.cache
+C:\Users\mc735\Documents\GitHub\ChallengeWSSoftware09\DesafioSolucion\Mário - DesafioHTML\obj\Debug\net6.0\ref\Mário - DesafioHTML.dll
