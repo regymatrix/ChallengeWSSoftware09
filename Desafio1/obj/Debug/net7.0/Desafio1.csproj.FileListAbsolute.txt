@@ -1,0 +1,15 @@
+C:\Users\nanny\OneDrive\Área de Trabalho\CarlosDesafio01\Desafio1\Desafio1\bin\Debug\net7.0\Desafio1.exe
+C:\Users\nanny\OneDrive\Área de Trabalho\CarlosDesafio01\Desafio1\Desafio1\bin\Debug\net7.0\Desafio1.deps.json
+C:\Users\nanny\OneDrive\Área de Trabalho\CarlosDesafio01\Desafio1\Desafio1\bin\Debug\net7.0\Desafio1.runtimeconfig.json
+C:\Users\nanny\OneDrive\Área de Trabalho\CarlosDesafio01\Desafio1\Desafio1\bin\Debug\net7.0\Desafio1.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\CarlosDesafio01\Desafio1\Desafio1\bin\Debug\net7.0\Desafio1.pdb
+C:\Users\nanny\OneDrive\Área de Trabalho\CarlosDesafio01\Desafio1\Desafio1\obj\Debug\net7.0\Desafio1.csproj.AssemblyReference.cache
+C:\Users\nanny\OneDrive\Área de Trabalho\CarlosDesafio01\Desafio1\Desafio1\obj\Debug\net7.0\Desafio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nanny\OneDrive\Área de Trabalho\CarlosDesafio01\Desafio1\Desafio1\obj\Debug\net7.0\Desafio1.AssemblyInfoInputs.cache
+C:\Users\nanny\OneDrive\Área de Trabalho\CarlosDesafio01\Desafio1\Desafio1\obj\Debug\net7.0\Desafio1.AssemblyInfo.cs
+C:\Users\nanny\OneDrive\Área de Trabalho\CarlosDesafio01\Desafio1\Desafio1\obj\Debug\net7.0\Desafio1.csproj.CoreCompileInputs.cache
+C:\Users\nanny\OneDrive\Área de Trabalho\CarlosDesafio01\Desafio1\Desafio1\obj\Debug\net7.0\Desafio1.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\CarlosDesafio01\Desafio1\Desafio1\obj\Debug\net7.0\refint\Desafio1.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\CarlosDesafio01\Desafio1\Desafio1\obj\Debug\net7.0\Desafio1.pdb
+C:\Users\nanny\OneDrive\Área de Trabalho\CarlosDesafio01\Desafio1\Desafio1\obj\Debug\net7.0\Desafio1.genruntimeconfig.cache
+C:\Users\nanny\OneDrive\Área de Trabalho\CarlosDesafio01\Desafio1\Desafio1\obj\Debug\net7.0\ref\Desafio1.dll
