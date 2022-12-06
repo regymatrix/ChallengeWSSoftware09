@@ -1,0 +1,15 @@
+C:\Users\Usuario\OneDrive\Documentos\TCC\ChallengeWSSoftware09\Desafio 01 - João Victor\bin\Debug\net6.0\Desafio 01 - João Victor.exe
+C:\Users\Usuario\OneDrive\Documentos\TCC\ChallengeWSSoftware09\Desafio 01 - João Victor\bin\Debug\net6.0\Desafio 01 - João Victor.deps.json
+C:\Users\Usuario\OneDrive\Documentos\TCC\ChallengeWSSoftware09\Desafio 01 - João Victor\bin\Debug\net6.0\Desafio 01 - João Victor.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Documentos\TCC\ChallengeWSSoftware09\Desafio 01 - João Victor\bin\Debug\net6.0\Desafio 01 - João Victor.dll
+C:\Users\Usuario\OneDrive\Documentos\TCC\ChallengeWSSoftware09\Desafio 01 - João Victor\bin\Debug\net6.0\Desafio 01 - João Victor.pdb
+C:\Users\Usuario\OneDrive\Documentos\TCC\ChallengeWSSoftware09\Desafio 01 - João Victor\obj\Debug\net6.0\Desafio 01 - João Victor.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Documentos\TCC\ChallengeWSSoftware09\Desafio 01 - João Victor\obj\Debug\net6.0\Desafio 01 - João Victor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Documentos\TCC\ChallengeWSSoftware09\Desafio 01 - João Victor\obj\Debug\net6.0\Desafio 01 - João Victor.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Documentos\TCC\ChallengeWSSoftware09\Desafio 01 - João Victor\obj\Debug\net6.0\Desafio 01 - João Victor.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Documentos\TCC\ChallengeWSSoftware09\Desafio 01 - João Victor\obj\Debug\net6.0\Desafio 01 - João Victor.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Documentos\TCC\ChallengeWSSoftware09\Desafio 01 - João Victor\obj\Debug\net6.0\Desafio 01 - João Victor.dll
+C:\Users\Usuario\OneDrive\Documentos\TCC\ChallengeWSSoftware09\Desafio 01 - João Victor\obj\Debug\net6.0\refint\Desafio 01 - João Victor.dll
+C:\Users\Usuario\OneDrive\Documentos\TCC\ChallengeWSSoftware09\Desafio 01 - João Victor\obj\Debug\net6.0\Desafio 01 - João Victor.pdb
+C:\Users\Usuario\OneDrive\Documentos\TCC\ChallengeWSSoftware09\Desafio 01 - João Victor\obj\Debug\net6.0\Desafio 01 - João Victor.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Documentos\TCC\ChallengeWSSoftware09\Desafio 01 - João Victor\obj\Debug\net6.0\ref\Desafio 01 - João Victor.dll
